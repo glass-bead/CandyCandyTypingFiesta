@@ -21,10 +21,10 @@ At the end of each round, whether you emerge victorious or fall in battle, your 
 * Engage in an addictive game that caters to all skill levels.
 
 <p float="center">
-  <img src="Screenshots/Home.png" width="40%" />
-  <img src="Screenshots/Attack.png" width="40%" />
-  <img src="Screenshots/Settings.png" width="40%" />
-  <img src="Screenshots/WPS.png" width="40%" />
+  <img src="Screenshots/Home.png" width="45%" />
+  <img src="Screenshots/Attack.png" width="45%" />
+  <img src="Screenshots/Settings.png" width="45%" />
+  <img src="Screenshots/WPS.png" width="45%" />
 </p>
 
 Join the typing revolution and embark on a candy-coated adventure with **"Cand Candy Typing Fiesta"**. Sharpen your typing skills, overcome challenging foes, and ascend to new heights of word mastery. Get ready for a finger-tapping fiesta like no other!
